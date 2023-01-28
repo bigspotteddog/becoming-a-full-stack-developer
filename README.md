@@ -42,7 +42,7 @@ If you can build an e-commerce marketplace from scratch, similar to [amazon.com]
 * Java/Spring Boot
    * Java
       * Installation
-      * Variables type
+      * Variable types
       * Expressions and operators
       * Conditionals: if else, operators, switch
       * JSON: objects, arrays, fromJson, toJson
