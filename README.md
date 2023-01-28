@@ -134,7 +134,7 @@ When a customer adds a product to their shopping cart, a counter will be display
 
 ## Checkout
 
-When a customer is viewing their cart, they will have the option to checkout. On the checkout page, the customer can add the shipping address and payment information. If the customer is logged in, they can pick between previously save shipping addresses and payment information.
+When a customer is viewing their cart, they will have the option to checkout. On the checkout page, the customer can add the shipping address and payment information. If the customer is logged in, they can pick between previously saved shipping addresses and payment information.
 
 ## Product reviews
 
@@ -181,6 +181,8 @@ Merchants may need to modify orders to process refunds, give discounts, or other
 ## Merchant settings
 
 Merchants will need to setup the Stripe checkout information so they can receive payment for products sold.
+
+# Notes
 
 This looks like a long list; however, about 90% of what is described here is simple CRUD. You learn how to do REST to CRUD one time, then repeat it for almost every feature in this list. The other 10% is payment processing and shipment tracking. Also, not too difficult and you only need to learn each of those once.
 
